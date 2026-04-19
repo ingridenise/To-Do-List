@@ -3,8 +3,7 @@
 ¡Bienvenida a mi primer proyecto de Lista de Tareas! Este es un desarrollo realizado con HTML, CSS y JavaScript puro (Vanilla JS), enfocado en la manipulación dinámica del DOM.
 
 ## 🚀 Demo en vivo
-Puedes ver el proyecto funcionando aquí: [lista-de-tareas-zeta-wine.vercel.app](https://lista-de-tareas-zeta-wine.vercel.app)
-
+Puedes ver el proyecto funcionando aquí: [lista-de-tareas-zeta-wine.vercel.app](https://to-do-list-zeta-wine.vercel.app/)
 ## ✨ Características
 * **Agregar tareas:** Captura el texto del input y lo añade a una lista visual.
 * **Eliminar tareas:** Cada tarea cuenta con un botón "X" que permite removerla de forma individual.
